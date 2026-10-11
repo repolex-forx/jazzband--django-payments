@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "django-payments",
+  "versions": [
+    {
+      "commit": "8edfb1fc47f8011a1ec401b878971fb47d104165",
+      "tag": "",
+      "parsed_at": "2026-10-11T01:33:13.115143+00:00"
+    }
+  ]
+}
