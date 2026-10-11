@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jazzband/django-payments/commit/8edfb1fc47f8011a1ec401b878971fb47d104165",
       "git:hexsha": "8edfb1fc47f8011a1ec401b878971fb47d104165",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jazzband/django-payments/commit/4d46c91683b3f3868786d4ea6d22a3c0d6521315",
